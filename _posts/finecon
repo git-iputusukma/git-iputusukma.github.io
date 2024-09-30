@@ -2,8 +2,9 @@
 title: Financial Econometrics
 author: IPSH
 date: 2024-09-30
-category: ipsh
+category: Jekyll
 layout: post
+mermaid: true
 ---
 
 This page contains my teaching materials on Financial Econometrics.
