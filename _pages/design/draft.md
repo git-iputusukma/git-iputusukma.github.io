@@ -1,9 +1,9 @@
 ---
 title: Design Draft
-author: Tao He
-date: 2022-02-06
-category: Jekyll
+author: IPSH
+date: 2024-09-30
+category: ipsh
 layout: post
 ---
 
-This is an draft page.
+This is a draft page.
