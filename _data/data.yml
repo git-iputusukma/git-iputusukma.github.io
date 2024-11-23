@@ -61,15 +61,16 @@ profile: |
 experience:
   - role: Sr. Financial Reporting and Analysis
     time: 2016-Present
-    company: Lembaga Manajemen Aset Negara, Kementterian Keuangan RI (Government Asset Management, Ministry of Finance)
+    company: Lembaga Manajemen Aset Negara, Kementterian Keuangan RI
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
+      - Coordinate the annual planning and budgeting, formulating the revenue and expenditures (OPEX and CAPEX) budget.
+      One of the main focuses is the revenue and expenditure for the gas/LNG plants in the portfolio.
+      - ordinate the annual planning and budgeting for land acquisition financing for strategic infrastructure projects 
+      (Proyek Strategis Nasional).
+
+      
     technologies_used: | 
-      Go, Angular, Typescript, C++
+      Ms. Excel, Google Sheet, Looker Studio, Power BI, 
   
   - role: Researcher
     time: 2016-2020
