@@ -5,7 +5,6 @@ fork: true
 # Sidebar
 contact:
   email: iputusukma@pm.me
-  email: iputusukma2@gmail.com
   github: iputusukmaFEBUI
   linkedin: iputusukma
   phone: +62812-9654-9229
@@ -27,37 +26,42 @@ education:
     time: 2014-2017
     university: Sekolah Tinggi Ilmu Ekonomi YAI
 
-  - degree: Associate Diploma in Accounting
+  - degree: Dipl. in Accounting
     time: 2006-2009
     university: Sekolah Tinggi Akuntansi Negara
 
 skills:
-  - category: Backend
+  - category: Reporting
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - Financial reporting
+      - Management reporting
+      - Accounting standard
+  - category: Planning
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Financial modeling
+      - Project appraisal
+      - Budgeting and controlling
+      - Revenue planning
+  - category: Financial Analytics
     skill:
-      - Docker
-      - Kubernetes 
+      - Financial data visualization
+      - Financial dashboard management
+      - Financial econometrics
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+  Throughout my decade of career, I have developed a strong foundation in finance, planning, strategy, and budgeting 
+  My experience in the Ministry of Finance and interaction and exposure to innovative schemes and process transformation 
+  in a highly regulated environment have nurtured my analytical capability to approach challenges with creativity and
+  strategic thinking while ensuring the financial discipline of the organization.
+
+  
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Sr. Financial Reporting and Analysis
+    time: 2016-Present
+    company: Lembaga Manajemen Aset Negara, Kementterian Keuangan RI (Government Asset Management, Ministry of Finance)
     details: |
       Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
       tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
