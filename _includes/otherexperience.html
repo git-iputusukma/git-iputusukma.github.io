@@ -2,13 +2,13 @@
 {% if otherexperience %}
 <section class="otherexperience">
     <h2 class="title">Other Experience</h2>
-    {% for exp in experience %}
+    {% for otherexp in experience %}
         <div class="other-experience-item">
             <div class="role">
                 {{otherexp.role}}
             </div>
             <div class="company">
-                {{exp.company}} 
+                {{otherexp.company}} 
                 <span class="time">{{otherexp.time}}</span>
             </div> 
             <div class="details">{{otherexp.details}}</div>
