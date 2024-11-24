@@ -96,31 +96,16 @@ certification:
 skills:
   - category: Financial reporting
     skill: 
-      - Financial reporting
-      - Management reporting
-      - Accounting standard
+      Financial reporting, management reporting, accounting standard
   - category: FP&A
     skill:
-      - Financial modeling
-      - Project appraisal
-      - Budgeting and controlling
-      - Revenue planning
+      Financial modeling, project appraisal, budgeting & controlling, revenue planning
   - category: Financial Analytics
     skill:
-      - Financial data visualization
-      - Financial econometrics
-      - Machine learning for finance
+      Financial data visualization, financial econometrics, machine learning for finance
   - category: Computer
     skill:
-      - Ms. Excel
-      - Google Sheet
-      - Python
-      - R
-      - PHP
-      - MySQL
-      - Power BI
-      - Looker Studio
-      - Google Big Query
+      Ms. Excel, Google Sheet, Python, R, PHP, MySQL, PowerBI, Looker Studio, Google Big Query
 
 
 # Projects
