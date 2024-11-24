@@ -141,9 +141,9 @@ experience:
     details: |
       Representing DG of State Assets as investment banking secondment.
 
-
+# Projects
 projects:
-  - title: Indonesia Government Bond Yield Curve Dashboard: Historical and Forecasting 
+  - title: Indonesia Government Bond Yield Curve Dashboard - Historical and Forecasting 
     link: https://idnyieldcurve.streamlit.app/
     details: |
       This interactive analytics dashboard is developed using Python, Streamlit, Excel.
@@ -163,15 +163,16 @@ projects:
     details: |
       Interactive analytics dashboard developed using R-Studio and R-Shiny. 
 
-
-  awards:
+# Awards
+awards:
   - title: Most Valuable Delegate DJKN Muda 2021
   - title: Best Capstone Project DJKN Muda 2021
   - title: 3rd Best Article Pekan Kekayaan Negara 2019
   - title: Lembaga Manajemen Aset Negara Best Employee 2018
 
 
-  training:
+# Training
+training:
   - title: Certified Securities Analyst (CSA) Preparation (2023)
   - title: Chartered Financial Analyst (CFA) Level 1 Preparation (2021)
   - title: Series of Corporate Finance and Valuation Course (2020)
