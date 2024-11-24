@@ -34,42 +34,6 @@ education:
     time: 2002-2005
     university: SMA Taruna Nusantara Magelang
 
-certification:
-  - degree: Certified Professional Management Accountant (CPMA)
-  - degree: Professional Financial Modeller (PFM)
-  - degree: Certified Risk Management Officer (CRMO)
-  - degree: Securities Analyst (RSA)
-  - degree: Government Procurement Expert - Basic Level
-  
-
-skills:
-  - category: Financial reporting
-    skill: 
-      - Financial reporting
-      - Management reporting
-      - Accounting standard
-  - category: Financial planning & analysis
-    skill:
-      - Financial modeling
-      - Project appraisal
-      - Budgeting and controlling
-      - Revenue planning
-  - category: Financial Analytics
-    skill:
-      - Financial data visualization
-      - Financial econometrics
-      - Machine learning for finance
-  - category: Computer
-    skill:
-      - Ms. Excel
-      - Google Sheet
-      - Python
-      - R
-      - PHP
-      - MySQL
-      - Power BI
-      - Looker Studio
-      - Google Big Query
 
 # Profile
 profile: |
@@ -120,7 +84,7 @@ experience:
 
 
 # Other Experience
-experience:
+other experience:
   - role: Working group member
     time: 2018-Present
     company: Komite Standar Akuntansi Pemerintahan
@@ -140,6 +104,48 @@ experience:
     company: PT Bahana Sekuritas
     details: |
       Representing DG of State Assets as investment banking secondment.
+
+
+# Certification
+certification:
+  - degree: Certified Professional Management Accountant (CPMA)
+  - degree: Professional Financial Modeller (PFM)
+  - degree: Certified Risk Management Officer (CRMO)
+  - degree: Securities Analyst (RSA)
+  - degree: Government Procurement Expert - Basic Level
+  
+
+# Skills
+skills:
+  - category: Financial reporting
+    skill: 
+      - Financial reporting
+      - Management reporting
+      - Accounting standard
+  - category: FP&A
+    skill:
+      - Financial modeling
+      - Project appraisal
+      - Budgeting and controlling
+      - Revenue planning
+  - category: Financial Analytics
+    skill:
+      - Financial data visualization
+      - Financial econometrics
+      - Machine learning for finance
+  - category: Computer
+    skill:
+      - Ms. Excel
+      - Google Sheet
+      - Python
+      - R
+      - PHP
+      - MySQL
+      - Power BI
+      - Looker Studio
+      - Google Big Query
+
+
 
 # Projects
 projects:
