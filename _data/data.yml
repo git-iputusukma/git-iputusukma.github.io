@@ -66,28 +66,19 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: M.S.M in Finance and Banking
+        university: Universitas Indonesia
+        time: 2022 - 2024
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Master of science by research in management focusing on finance and banking.
+            - Highest GPA in the 2024 graduate cohort (3.85 of 4.00)
+            - Publication in Scopus Q2 indexed journal
+      - degree: B.Econ in Finance
+        university: Universitas Indonesia
+        time: 2017 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Bachelor of economics in management focusing on finance.
+            - Highest GPA in 2020 finance graduate cohort (3.72 of 4.00)
 
 experiences:
     title: Experiences
