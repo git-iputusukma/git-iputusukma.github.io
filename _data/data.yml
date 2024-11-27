@@ -175,10 +175,12 @@ projects:
     assignments:
       - title: Indonesia Government Bond Yield Curve Dashboard: Historical and Forecasting
         link: https://idnyieldcurve.streamlit.app/
-        tagline: "This dashboard provides the historical yield data for Indonesian Government Bonds. The data are presented in this dashboard - for both convenience and scientific purposes - using a chart and table. The charts themselves are two-dimensional and three-dimensional line charts. This dashboard also presents an interactive view of the daily yield curve for 10 years from 2014 to 2024. The yield curves are theoretical curves fitted from available Indonesia Government Bonds yield data." 
+        tagline: ""
+     
       - title: Government Budget Realization Based on GFS Framework
         link: https://iputusukma.shinyapps.io/GFSBaliNusra1819/
         tagline: "Interactive analytics dashboard developed using R-Studio and R-Shiny"
+     
       - title: Analytics Dashboard for Property and Real Estate Data
         link: https://idxpreindex.shinyapps.io/PREindex_pub/
         tagline: "Interactive analytics dashboard developed using R-Studio and R-Shiny"
