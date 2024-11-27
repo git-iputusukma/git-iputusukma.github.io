@@ -174,17 +174,17 @@ projects:
     intro: >
       My personal projects, mainly in analytics
     assignments:
-      - title: Indonesia Government Bond Yield Curve Dashboard: Historical and Forecasting
+      - title: Dashboard
         link: https://idnyieldcurve.streamlit.app/
-        tagline: "Interactive analytics dashboard on government bond yield curve, developed using Python and Streamlit"
+        tagline: "Indonesia Government Bond Yield Curve Dashboard: Historical and Forecasting, developed using Python and Streamlit"
 
-      - title: Government Budget Realization Based on GFS Framework
+      - title: Dashboard
         link: https://iputusukma.shinyapps.io/GFSBaliNusra1819/
-        tagline: "Interactive analytics dashboard developed using R-Studio and R-Shiny."
+        tagline: "Interactive analytics Government Budget Realization Based on GFS Framework dashboard, developed using R-Studio and R-Shiny."
 
-      - title: Analytics Dashboard for Property and Real Estate Data
+      - title: Dashboard
         link: https://idxpreindex.shinyapps.io/PREindex_pub/
-        tagline: "Interactive analytics dashboard developed using R-Studio and R-Shiny."
+        tagline: "Interactive analytics dashboard for property and real estate data, developed using R-Studio and R-Shiny."
 
         
 
