@@ -100,7 +100,7 @@ experiences:
     info:
       - role: Deputy Head - Budget & Reporting Division
         time: 2023 - Present
-        company: Lembaga Manajemen Ase Negara (LMAN), Kementerian Keuangan RI
+        company: Lembaga Manajemen Aset Negara (LMAN), Kementerian Keuangan RI
         details: |
           Lembaga Manajemen Aset Negara (LMAN) is a special mission vehicle under Kementerian Keuangan RI assigned to optimize
           underutilized state assets and to finance the land acquisition for national strategic infrastructure projects.
@@ -109,13 +109,7 @@ experiences:
             - Coordinate the organization's monthly, semi-annual, and annual financial reporting with a size exceeding IDR 50 trillion (USD 3 billion). Ensuring compliance with accounting standards and assuring the reliability and relevance of the financial information for both external and internal users.
             - Coordinate the quarterly, semi-annual, and annual asset management report with assets under management exceeding IDR 30 trillion (USD 18 billion), including the administration of LNG plants assets.
             - Maintain the financial analytics dashboard and visual financial reporting, delivering useful insights in the form of financial ratios, trends, and metrics for the senior management and board of directors..
-            - Coordinate the medium-term strategic planning process.
-      - role: Sr. Financial Reporting and Analysis
-        time: 2016 - Present
-        company: Lembaga Manajemen Ase Negara (LMAN), Kementerian Keuangan RI
-      - role: Accountant
-        time: 2016 - Present
-        company: Lembaga Manajemen Ase Negara (LMAN), Kementerian Keuangan RI      
+            - Coordinate the medium-term strategic planning process. 
       - role: Investment Analyst 
         time: 2014 - 2016
         company: Direktorat Jenderal Kekayaan Negara, Kementerian Keuangan RI
@@ -176,78 +170,61 @@ certifications:
 
 
 projects:
-    title: Indonesia Government Bond Yield Curve Dashboard: Historical and Forecasting
+    title: Projects
     intro: >
-      This dashboard provides the historical yield data for Indonesian Government Bonds. 
-      The data are presented in this dashboard - for both convenience and scientific purposes - using a chart and table. 
-      The charts themselves are two-dimensional and three-dimensional line charts.
-      This dashboard also presents an interactive view of the daily yield curve for 10 years from 2014 to 2024.
-      The yield curves are theoretical curves fitted from available Indonesia Government Bonds yield data.
-    link: https://idnyieldcurve.streamlit.app/
-
+    assignments:
+      - title: Indonesia Government Bond Yield Curve Dashboard: Historical and Forecasting
+        link: https://idnyieldcurve.streamlit.app/
+        tagline: "This dashboard provides the historical yield data for Indonesian Government Bonds. The data are presented in this dashboard - for both convenience and scientific purposes - using a chart and table. The charts themselves are two-dimensional and three-dimensional line charts. This dashboard also presents an interactive view of the daily yield curve for 10 years from 2014 to 2024. The yield curves are theoretical curves fitted from available Indonesia Government Bonds yield data." 
+      - title: Government Budget Realization Based on GFS Framework
+        link: https://iputusukma.shinyapps.io/GFSBaliNusra1819/
+        tagline: "Interactive analytics dashboard developed using R-Studio and R-Shiny"
+      - title: Analytics Dashboard for Property and Real Estate Data
+        link: https://idxpreindex.shinyapps.io/PREindex_pub/
+        tagline: "Interactive analytics dashboard developed using R-Studio and R-Shiny"
 
 oss:
-    title: OSS Contributions
+    title: Other Experiences
     intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      My professional experiences outside primary employment.
     contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Working group member for Komite Standar Akuntansi Pemerintahan (2018 - present)
+        tagline: "Research and authoring: the Government Accounting Standard (GAS) about Fixed Assets,  Financial Statement Discussion & Analysis, Financial Instrument, Investment Property, and Joint Arrangement"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Tutor/teaching assistant for Fakultas Ekonomi dan Bisnis Universitas Indonesia (2023 - present)
+        tagline: "Tutor for subject Financial Statement Analysis, Portfolio Analytics, and Fixed Income for M.Sc. students. Tutor for subject Financial Econometrics, Financial Theory, and Corporate Finance for B.Econ students."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Investment Banking Secondee at PT Bahana Sekuritas (2021)
+        tagline: "Representing DG of State Assets as investment banking secondment."
+
 
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
+
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: Do executive facial trustworthiness have impact on IPO underpricing in the Indonesia stock exchange?
+        link: https://doi.org/10.1108/RBF-12-2023-0327
+        authors: I Putu Sukma Hendrawan, Cynthia Afriani Utama
+        conference: Review of Behavioral Finance, 2024
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      - title: Developing a Framework of Government Future Flow Securitization Through Public Service Agency
+        link: http://dx.doi.org/10.12962/j23546026.y2020i1.11942
+        authors: I Putu Sukma Hendrawan, Novriandini Ermaningrum, Bram Rahadyta
+        conference: IPTEK Journal of Proceeding Series, 2022
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
+      - name: Python & R
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Power BI & Looker Studio
+        level: 85%
+
+      - name: Ms. Excel & Google Suite
+        level: 98%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
