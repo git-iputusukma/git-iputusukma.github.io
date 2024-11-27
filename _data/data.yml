@@ -57,12 +57,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Throughout my decade of career as a finance professional in the Ministry of Finance, 
+      I have developed expertise in financial planning & analysis, financial reporting, 
+      financial modeling & forecasting, asset & property management, strategic planning & budgeting, 
+      and business & data analytics.
 education:
     title: Education
     info:
@@ -80,87 +78,107 @@ education:
           Bachelor of economics in management focusing on finance.
             - Highest GPA in 2020 finance graduate cohort (3.72 of 4.00)
 
+      - degree: B.Econ in Accounting
+        university: Sekolah Tinggi Ilmu Ekonomi YAI
+        time: 2014 - 2017
+        details: |
+          Bachelor of economics in accounting focusing on management accounting.
+
+      - degree: Dipl. in Accounting
+        university: Sekolah Tinggi Akuntansi Negara
+        time: 2006 - 2009
+        details: |
+          Associate diploma in accounting.
+
+      - degree: High school diploma
+        university: SMA Taruna Nusantara Magelang
+        time: 2002 - 2005
+        details: |
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Deputy Head - Budget & Reporting Division
+        time: 2023 - Present
+        company: Lembaga Manajemen Ase Negara (LMAN), Kementerian Keuangan RI
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Lembaga Manajemen Aset Negara (LMAN) is a special mission vehicle under Kementerian Keuangan RI assigned to optimize
+          underutilized state assets and to finance the land acquisition for national strategic infrastructure projects.
+            - Coordinate the annual planning and budgeting, formulating the revenue and expenditures (OPEX and CAPEX) budget. One of the main focuses is the revenue and expenditure for the gas/LNG plants in the portfolio with annual revenue under management exceeding IDR 1 trillion (USD 60 million)
+            - Coordinate the annual planning and budgeting for land acquisition financing for strategic infrastructure projects (Proyek Strategis Nasional) with an annual budget exceeding IDR 15 trillion (USD 950 million).
+            - Coordinate the organization's monthly, semi-annual, and annual financial reporting with a size exceeding IDR 50 trillion (USD 3 billion). Ensuring compliance with accounting standards and assuring the reliability and relevance of the financial information for both external and internal users.
+            - Coordinate the quarterly, semi-annual, and annual asset management report with assets under management exceeding IDR 30 trillion (USD 18 billion), including the administration of LNG plants assets.
+            - Maintain the financial analytics dashboard and visual financial reporting, delivering useful insights in the form of financial ratios, trends, and metrics for the senior management and board of directors..
+            - Coordinate the medium-term strategic planning process.
+      - role: Sr. Financial Reporting and Analysis
+        time: 2016 - Present
+        company: Lembaga Manajemen Ase Negara (LMAN), Kementerian Keuangan RI
+      - role: Accountant
+        time: 2016 - Present
+        company: Lembaga Manajemen Ase Negara (LMAN), Kementerian Keuangan RI      
+      - role: Investment Analyst 
+        time: 2014 - 2016
+        company: Direktorat Jenderal Kekayaan Negara, Kementerian Keuangan RI
+        details: |
+            - Prepared the government investment report on a semi-annual basis and annual basis, navigating the implementation of accrual accounting in government investment reporting.
+            - Prepared government investment planning and budgeting, and conducted feasibility analysis on the participation of government equity in state-owned enterprises and government public service agencies.
+            - Maintaining the early warning system of the state-owned enterprises' financial performances (plantation sector).
+      - role: Treasurer
+        time: 2011 - 2014
+        company: Direktorat Jenderal Kekayaan Negara, Kementerian Keuangan RI
         details: |
           Describe your role here lorem ipsum dolor sit amet, consectetuer
           adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
           Cum sociis natoque penatibus et magnis dis parturient montes,
           nascetur ridiculus mus. Donec quam felis, ultricies nec,
           pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            - Cash management and expenditure management of the working unit.
+            - Tax administration of the working unit.
+
+      - role: Management trainee
+        time: 2010 - 2011
+        company: Direktorat Jenderal Kekayaan Negara, Kementerian Keuangan RI
+
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
+        - name: Certified Professional Management Accountant (CPMA)
           start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+          end: 
+          organization: Indonesia Institute of Management Accountant
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
+        - name: Professional Financial Modeller (PFM)
           start: 2019
           end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
+          organization: International Financial Modelling Institute
+          credentialid: 
+          credentialurl: 
+          credentialname: 
           details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+
+        - name: Certified Risk Management Officer (CRMO)
+          start: 2023
+          end:
+          organization: Risk Management Profession Certification Board
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+
+        - name: Government Procurement Expert 
+          start: 2018
+          end:
+          organization: Government Procurement Policy Board
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
+
 
 projects:
     title: Projects
