@@ -127,11 +127,6 @@ experiences:
         time: 2011 - 2014
         company: Direktorat Jenderal Kekayaan Negara, Kementerian Keuangan RI
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
             - Cash management and expenditure management of the working unit.
             - Tax administration of the working unit.
 
@@ -181,31 +176,15 @@ certifications:
 
 
 projects:
-    title: Projects
+    title: Indonesia Government Bond Yield Curve Dashboard: Historical and Forecasting
     intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      This dashboard provides the historical yield data for Indonesian Government Bonds. 
+      The data are presented in this dashboard - for both convenience and scientific purposes - using a chart and table. 
+      The charts themselves are two-dimensional and three-dimensional line charts.
+      This dashboard also presents an interactive view of the daily yield curve for 10 years from 2014 to 2024.
+      The yield curves are theoretical curves fitted from available Indonesia Government Bonds yield data.
+    link: https://idnyieldcurve.streamlit.app/
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 oss:
     title: OSS Contributions
