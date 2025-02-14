@@ -17,6 +17,7 @@ sidebar:
     phone: +62812-9654-9229
     timezone: Indonesia/Jakarta
     citizenship: Indonesia
+    website: https://iputusukma-bok.github.io
     website: https://git-iputusukma.github.io.
     linkedin: iputusukma
     xing: 
@@ -31,7 +32,7 @@ sidebar:
     mastodon:  
     hackerrank: 
     leetcode: 
-    pdf: https://drive.google.com/file/d/1cWiM3iYWftYSlp9Y1lITZKNWpKJVjcvo/view?usp=sharing # Add a PDF link here if you want to include a PDF custom version in your resume.
+    pdf: https://drive.google.com/file/d/18MYy-_Jism1g3J3dB2pVqLTpTgN5NSOy/view?usp=drive_link # Add a PDF link here if you want to include a PDF custom version in your resume.
 
     languages:
       title: Languages
@@ -98,8 +99,14 @@ education:
 experiences:
     title: Experiences
     info:
+      - role: Head of Financial Reporting and Funding Department
+        time: Feb. 2025 - Present
+        company: Kantor Wilayah Direktorat Jenderal Kekayaan Negara Bali dan Nusa Tenggara, Kementerian Keuangan RI
+      - role: Sr. Analyst Asset Management
+        time: Jan 2025 - Feb. 2025
+        company: Kantor Wilayah DJKN Bali dan Nusa Tenggara Kementerian Keuangan RI
       - role: Deputy Head - Budget & Reporting Division
-        time: 2023 - Present
+        time: 2016 - Dec. 2024
         company: Lembaga Manajemen Aset Negara (LMAN), Kementerian Keuangan RI
         details: |
           Lembaga Manajemen Aset Negara (LMAN) is a special mission vehicle under Kementerian Keuangan RI assigned to optimize
