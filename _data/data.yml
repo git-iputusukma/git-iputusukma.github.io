@@ -156,6 +156,15 @@ certifications:
           credentialurl: 
           credentialname: 
           details: |
+          
+        - name: Certified Securities Analyst (CSA)
+          start: 2025
+          end:
+          organization: Capital Market Profession Certification Board
+          credentialid: 
+          credentialurl: 
+          credentialname: 
+          details: |
 
         - name: Professional Financial Modeller (PFM)
           start: 2019
